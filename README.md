@@ -1,0 +1,2 @@
+# RateMyCampground
+Campground rating application
